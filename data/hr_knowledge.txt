@@ -1,0 +1,28 @@
+HR Recruitment Knowledge Base
+
+A software developer should have programming skills relevant to the job.
+
+Python developer roles commonly require Python, SQL, Git, REST API,
+FastAPI or Django, and basic database knowledge.
+
+Java developer roles commonly require Java, Spring Boot, SQL,
+REST API and Git.
+
+Frontend developer roles commonly require HTML, CSS, JavaScript,
+React and Git.
+
+Backend developer roles commonly require programming knowledge,
+databases, APIs, authentication and Git.
+
+Important interview areas include:
+Programming fundamentals
+Data structures
+Algorithms
+Database concepts
+Object oriented programming
+Projects
+Problem solving
+Communication skills
+
+A candidate's suitability should be evaluated by comparing
+their skills with the requirements of the job description.
